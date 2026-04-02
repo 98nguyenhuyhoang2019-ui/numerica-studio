@@ -11,7 +11,7 @@ The application provides a unified environment for mathematical computation, vis
 - Principal Component Analysis (PCA)
 
 ## Demo
-https://your-app.streamlit.app
+https://numerica-studio-lz43ivkxrcmbuiynshcdvg.streamlit.app/
 
 ## Installation and Usage
 
